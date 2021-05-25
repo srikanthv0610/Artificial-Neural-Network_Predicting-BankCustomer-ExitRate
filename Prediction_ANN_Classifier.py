@@ -15,7 +15,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 ### Data Preprocessing
 
 # Loading the data
-bank_dataset = pd.read_csv("Learning_Dataset/Bank_data.csv")
+bank_dataset = pd.read_csv("Bank_data.csv")
 print(bank_dataset.head(5))
 print(bank_dataset.shape)
 
