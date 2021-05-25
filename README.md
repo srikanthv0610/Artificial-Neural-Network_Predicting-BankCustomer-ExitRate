@@ -12,4 +12,9 @@
 
 # Plots
 
-[Heatmap](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/blob/main/Plots/Correlation.png)
+![Heatmap](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/blob/main/Plots/Correlation.png)
+
+
+
+![Correlation](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/blob/main/Plots/Correlation_with_target.png)
+
