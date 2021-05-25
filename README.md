@@ -9,3 +9,7 @@
 * Using the ANN model to Predict
 
 * Evaluating using Accuracy score and Confusion Matrix
+
+# Plots
+
+[Heatmap](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/blob/main/Plots/Correlation.png)
