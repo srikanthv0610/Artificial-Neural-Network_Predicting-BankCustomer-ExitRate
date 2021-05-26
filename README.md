@@ -38,9 +38,8 @@ Observation from Correlation:
 
 # ANN Model Evaluation:
 
->> Confusion Matrix: [[1518   77] [192   33]]
+>> Confusion Matrix: [[1518   77] [192    33]]
 >> Accuracy_Score: 86.5 %
-
 
 
 
