@@ -10,6 +10,24 @@
 
 * Evaluating using Accuracy score and Confusion Matrix
 
+# Data Transformation:
+
+* First we transform the gender variable to binary. (Female = 0, Male = 1).
+* We then use OneShotEncoder to transform the Geography variable tp a categorical variable.
+
+# Data Normalization:
+
+We feature scale the independent variables using Scikit learn: StandardScale.
+
+# Train_Test Split:
+
+We split the original data into 70% train set and 30% test set 
+
+# ANN Model Prediction:
+
+
+
+
 # Plots
 
 ![Heatmap](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/blob/main/Plots/Correlation_analysis.png)
