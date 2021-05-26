@@ -23,13 +23,8 @@ We feature scale the independent variables using Scikit learn: StandardScale.
 
 We split the original data into 70% train set and 30% test set 
 
-# ANN Model Prediction:
-
-
-
 
 # Plots
-
 ![Heatmap](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/blob/main/Plots/Correlation_analysis.png)
 
 ![Correlation](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/blob/main/Plots/Correlation_target.png)
@@ -40,4 +35,13 @@ Observation from Correlation:
 * Age and Balance variables have the highest complementary correlation with our target(exited) variable
 * IsActiveMember and Gender variables have the highest supplementary correlation with the target variable
 * Based on Geography: Resident from Germany is more likely to exit than a resident from France or Spain
+
+# ANN Model Evaluation:
+
+>> Confusion Matrix: [[ 1518 77 ] [ 192 33 ]]
+>> Accuracy_Score: 86.5 %
+
+
+
+
 
