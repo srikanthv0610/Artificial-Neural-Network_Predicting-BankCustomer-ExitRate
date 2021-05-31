@@ -1,4 +1,4 @@
-# Predicting a Bank Customer Exit Rate using ANN:
+# Bank Customer Exit Rate Prediction and Analysis using ANN:
 
 * The dataset used for modelling our prediction model can be found [here](https://github.com/srikanthv0610/Artificial-Neural-Network_Predicting-BankCustomer-ExitRate/tree/main/Dataset)
 
